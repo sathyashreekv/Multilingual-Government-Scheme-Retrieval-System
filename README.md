@@ -208,7 +208,7 @@ Results are broken down per language (English 🇬🇧 / Hindi 🇮🇳 / Kannad
 
 ```
 .
-├── hopefully_final.ipynb       # Main notebook
+├── nlp_project.ipynb       # Main notebook
 ├── scheme_embeddings.npy       # Cached embeddings (auto-generated)
 ├── scheme_faiss.index          # FAISS index (auto-generated)
 └── README.md
