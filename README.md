@@ -97,7 +97,7 @@ User Query (Text or Voice)
 ### 1. Clone & Open in Colab
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo>.git
+git clone https://github.com/sathyashreekv/Multilingual-Government-Scheme-Retrieval-System.git
 ```
 
 Open `nlp_rag.ipynb` in [Google Colab](https://colab.research.google.com/).
