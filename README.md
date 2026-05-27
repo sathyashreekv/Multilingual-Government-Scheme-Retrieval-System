@@ -100,7 +100,7 @@ User Query (Text or Voice)
 git clone https://github.com/<your-username>/<your-repo>.git
 ```
 
-Open `hopefully_final.ipynb` in [Google Colab](https://colab.research.google.com/).
+Open `nlp_rag.ipynb` in [Google Colab](https://colab.research.google.com/).
 
 ### 2. Upload your dataset
 
