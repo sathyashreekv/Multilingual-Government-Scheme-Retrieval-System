@@ -47,7 +47,7 @@ User Query (Text or Voice)
 └────────┬────────┘                         │
          │                       ┌──────────┴───────────┐
          │                       │   BM25 Keyword Search │
-         │                       │   (Okapi BM25)        │
+         │                       │   ( BM25)        │
          │                       └──────────┬───────────┘
          │                                  │
          └──────────────┬───────────────────┘
@@ -97,10 +97,10 @@ User Query (Text or Voice)
 ### 1. Clone & Open in Colab
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo>.git
+git clone https://github.com/sathyashreekv/Multilingual-Government-Scheme-Retrieval-System.git
 ```
 
-Open `hopefully_final.ipynb` in [Google Colab](https://colab.research.google.com/).
+Open `nlp_rag.ipynb` in [Google Colab](https://colab.research.google.com/).
 
 ### 2. Upload your dataset
 
@@ -208,7 +208,7 @@ Results are broken down per language (English 🇬🇧 / Hindi 🇮🇳 / Kannad
 
 ```
 .
-├── hopefully_final.ipynb       # Main notebook
+├── nlp_project.ipynb       # Main notebook
 ├── scheme_embeddings.npy       # Cached embeddings (auto-generated)
 ├── scheme_faiss.index          # FAISS index (auto-generated)
 └── README.md
